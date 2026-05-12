@@ -35,5 +35,6 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python train_net.py --num-gpus 4 --config-file ../c
 
 Please check `scripts/run_phrase_grounding.sh`, `scripts/run_seg.sh`, `scripts/run_cls.sh`.
 
-TODO:
-- [ ] update benchmark description
+### Pretrained Weights
+
+Pretrained weights can be found in [Link](https://drive.google.com/drive/folders/1z9r66fNbJbiMFB9vPNssyjwcUyhpuLgz?usp=sharing)
